@@ -11,10 +11,15 @@ My project will be a two way searchable database for the purpose of connecting P
 
 There will be two types of logins, one for employers, and one for job seekers. Employers can input a position, with specifics on the levels of each skill desired, which will match the top candidates using an unnormallized point system, ordered by score. Similarly, Job seekers can input their levels of skills, and do a general search and see which positions their skillset matches with best, and can select/apply for the positions that sound most interesting to them. 
 
-
 ### Features
-Custom Matching Algorithm
-Login
+Login-Job Seekers and Job Posters will each have their own type of login
+
+Create a job posting- Employers can create a job posting, with a text body, and a list of skills, and the priority of those skills that are used in the search.
+
+Create a profile- Job seekers can create a profile with a custom description, and a list of all of their skills, and those skill levels.
+
+Search-Custom matching algorithm orders candidates or job postings by matching score. Job seekers can search for job postings, and employers can search for the perfect candidate.
+
 
 ### Technologies
 Java
