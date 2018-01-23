@@ -23,12 +23,17 @@ Search-Custom matching algorithm orders candidates or job postings by matching s
 
 ### Technologies
 -Java
+
 -SpringBoot
+
 -Thymeleaf
+
 -MySQL
 
 ### What I'll Have to Learn
 -I'm pretty fuzzy on how to create Log-in's. Especially two different types.
+
 -Using search function using a customized algorithm to search/report results, based on score.
+
 -How to structure my profile data for searches.
 
