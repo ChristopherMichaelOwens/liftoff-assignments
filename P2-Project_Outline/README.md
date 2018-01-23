@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My project will be a two way searchable database for the purpose of connecting PHD gradutes with positions at companies based on their skillsets. PHD graduates looking for job each have unique skillsets, but it can be hard to connect those skills to positions. PHDs especially have the desire and capability to learn new skills in a career. 
+My project will be a two way searchable database for the purpose of connecting PHD graduates with positions at companies based on their skillsets. PHD graduates looking for a job each have unique skillsets, but it can be hard to connect those skills to positions. PHDs especially have the desire and capability to learn new skills in a career. 
 
 There will be two types of logins, one for employers, and one for job seekers. Employers can input a position, with specifics on the levels of each skill desired, which will match the top candidates using an unnormallized point system, ordered by score. Similarly, Job seekers can input their levels of skills, and do a general search and see which positions their skillset matches with best, and can select/apply for the positions that sound most interesting to them. 
 
@@ -28,4 +28,7 @@ Thymeleaf
 MySQL
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+-I'm pretty fuzzy on how to create Log-in's. Especially two different types.
+-Using search function using a customized algorithm to search/report results, based on score.
+-How to structure my profile data for searches.
+
